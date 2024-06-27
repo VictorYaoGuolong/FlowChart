@@ -1,9 +1,218 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T05:39:05.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.3" etag="jXqpOiQ52oKKk71DWF3C" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T05:56:41.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lcpuclN4FmRUJ921M7ts" version="24.6.3" type="github">
   <diagram name="第 1 页" id="TRtg0N3AGajj0FDgOc_d">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/9d/9d5225ac66b2efc92af4ba5e3bcc83bb.png;" vertex="1" parent="1">
+          <mxGeometry x="176.14999999999998" y="582.39" width="322.75" height="59.61" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/5a/5a3228e1d8c98695d144fcae51a0e32b.png;" vertex="1" parent="1">
+          <mxGeometry x="266.5" y="150" width="192.59" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/3c/3c5a1f82dd52ce83b3a2e40b98b773d9.png;" vertex="1" parent="1">
+          <mxGeometry x="190" y="338.03" width="268.76" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/64/643d090f3d2c8e0779c34c1d4788f2d0.png;" vertex="1" parent="1">
+          <mxGeometry x="191.04000000000002" y="216" width="270.2" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/64/643d090f3d2c8e0779c34c1d4788f2d0.png;" vertex="1" parent="1">
+          <mxGeometry x="191.03999999999996" y="276.03" width="270.2" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/12/12d4660339dd3b1b3feb643e325dba24.png;" vertex="1" parent="1">
+          <mxGeometry x="187.14999999999998" y="471" width="292.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/12/12d4660339dd3b1b3feb643e325dba24.png;" vertex="1" parent="1">
+          <mxGeometry x="187.14999999999998" y="543" width="292.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/12/12d4660339dd3b1b3feb643e325dba24.png;" vertex="1" parent="1">
+          <mxGeometry x="187.14999999999998" y="401" width="292.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/d5/d5e509926eff10f226aa196104ba5828.png;" vertex="1" parent="1">
+          <mxGeometry x="55" y="164" width="133" height="43.97" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/d5/d5e509926eff10f226aa196104ba5828.png;" vertex="1" parent="1">
+          <mxGeometry x="50.85000000000002" y="236" width="139.15" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/d5/d5e509926eff10f226aa196104ba5828.png;" vertex="1" parent="1">
+          <mxGeometry x="50.85000000000002" y="314" width="139.15" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/d5/d5e509926eff10f226aa196104ba5828.png;" vertex="1" parent="1">
+          <mxGeometry x="48.00000000000003" y="442" width="139.15" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/d5/d5e509926eff10f226aa196104ba5828.png;" vertex="1" parent="1">
+          <mxGeometry x="48.00000000000003" y="511" width="139.15" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-14" value="K92级联线0.15m" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="55" y="213" width="101" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/dc/dc135ec901d8b9ad575074a59e1c2462.png;" vertex="1" parent="1">
+          <mxGeometry x="608" y="154" width="155.75" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/70/700c0b16653997f830d5932992eabc91.png;" vertex="1" parent="1">
+          <mxGeometry x="504.15" y="637" width="53.62" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-17" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1" target="6cenJSRfdGVzmn3dLWxa-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="532.1500000000001" y="637" as="sourcePoint" />
+            <mxPoint x="582.15" y="587" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="532.15" y="587" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="160" as="sourcePoint" />
+            <mxPoint x="611" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-19" value="+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; -&lt;br&gt;电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="571" y="337" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-20" value="" style="curved=1;endArrow=classic;html=1;entryX=0.058;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6cenJSRfdGVzmn3dLWxa-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="608" y="268" as="sourcePoint" />
+            <mxPoint x="558" y="354" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="566" y="268" />
+              <mxPoint x="558" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://oss-liuchengtu.hudunsoft.com/8c/8c868b3c61789b9a4fd141087be7c04d.png;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="855" y="119" width="116" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/8a/8a43dfe5628cf2e534961783e2dec89f.png;" vertex="1" parent="1">
+          <mxGeometry x="228.14999999999998" y="649" width="98.91" height="36.58" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-23" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329" y="666" as="sourcePoint" />
+            <mxPoint x="379.24" y="585.5799999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="387" y="674" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-24" value="K356 应变模块信号线" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="215.10999999999999" y="685.58" width="125" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/dc/dc135ec901d8b9ad575074a59e1c2462.png;" vertex="1" parent="1">
+          <mxGeometry x="605" y="533" width="155.75" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/70/700c0b16653997f830d5932992eabc91.png;" vertex="1" parent="1">
+          <mxGeometry x="469" y="325" width="53.62" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-27" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488" y="552" as="sourcePoint" />
+            <mxPoint x="598" y="552" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-28" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="752" y="517" as="sourcePoint" />
+            <mxPoint x="888" y="204" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-29" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="763.75" y="163" as="sourcePoint" />
+            <mxPoint x="842.75" y="163" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-30" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="447" y="360" as="sourcePoint" />
+            <mxPoint x="500" y="345" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="492" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-31" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="686" y="533" as="sourcePoint" />
+            <mxPoint x="693" y="387" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="782" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/9e/9ee8bac144d8b454c1727cbe438f6219.png;" vertex="1" parent="1">
+          <mxGeometry x="110.99999999999994" y="102.00000000000003" width="100" height="29.05" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-33" value="K134模拟量信号线" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="97" y="81" width="110" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-34" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="287" y="168" as="sourcePoint" />
+            <mxPoint x="218" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="281" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-35" value="K74终端电阻" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="490.15" y="652" width="79" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-36" value="K74终端电阻" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="472" y="307" width="79" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-37" value="K176 供电及CAN线束" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="605" y="128" width="127" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-38" value="K176 供电及CAN线束" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="619.38" y="665" width="127" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/cc/ccbf2250a80e618a4d713e8f1fa7d480.png;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="102" width="199.78" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss-liuchengtu.hudunsoft.com/userimg/b2/b25d08ec7ff27929911b827a04f5bfc6.png;" vertex="1" parent="1">
+          <mxGeometry x="190" y="198" width="274.28" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-41" value="CAN" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="835" y="359" width="35" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-42" value="CAN" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="777" y="135" width="35" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-43" value="AD8 Pro" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="460.15" y="231" width="55" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-44" value="CNT4" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="457.9" y="170" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-45" value="STG6 PRO" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="494.15" y="483" width="71" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-46" value="THMM16 PRO" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="457.9" y="365" width="89" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-47" value="&lt;font style=&quot;font-size: 20px&quot;&gt;CANape&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="965" y="254" width="162" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-48" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="986" y="193" as="sourcePoint" />
+            <mxPoint x="1036" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-49" value="PC" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="1023" y="362" width="27" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-50" value="STG6 PRO" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="490.15" y="557" width="71" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-51" value="STG6 PRO" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="494.15" y="424" width="71" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="6cenJSRfdGVzmn3dLWxa-52" value="AD8 Pro" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="459.09" y="278" width="55" height="18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
